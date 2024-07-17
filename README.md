@@ -4,7 +4,7 @@ I am a Full-Stack Software Engineer with a love for Ruby, JavaScript, React/Redu
 
 ## I am a Developer, Creator, Teacher, and Learner
 
-😄 Pronouns: He/Him/His<br>🔭 I’m currently working on a MERN Stack application.<br>🌱 I’m currently learning Python and TypeScript!<br>👯 I’m looking to collaborate on new technologies!<br>⚡ Fun fact: If I'm not coding, then I'm probably playing a video game or reading weird sci-fi.<br>📫 How to reach me:<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyleginzburg)<br>[![Website](https://img.shields.io/badge/Website-%23323335.svg?logo=google-chrome&logoColor=white)](https://www.kyleginzburg.com)<br>[![Email](https://img.shields.io/badge/Email-%23333.svg?logo=mail.ru&logoColor=white
+😄 Pronouns: He/Him/His<br>🔭 I’m currently working on a MERN Stack application.<br>🌱 I’m currently learning Python!<br>👯 I’m looking to collaborate on new technologies!<br>⚡ Fun fact: If I'm not coding, then I'm probably playing a video game or reading weird sci-fi.<br>📫 How to reach me:<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyleginzburg)<br>[![Website](https://img.shields.io/badge/Website-%23323335.svg?logo=google-chrome&logoColor=white)](https://www.kyleginzburg.com)<br>[![Email](https://img.shields.io/badge/Email-%23333.svg?logo=mail.ru&logoColor=white
 )](mailto:keginzburg@gmail.com)
 
 ### Languages and Tools
